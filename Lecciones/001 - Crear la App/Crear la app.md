@@ -16,7 +16,7 @@ Luego colocamoos el nombre de nuestra `app / bot`.
 
 ### `Paso 4:`
 
-Se nos abrira esto, donde podemos establecer una foto de perdil y una decripción para nuestra aplicación. 
+Se nos abrira esto, donde podemos establecer una foto de perfil y una decripción para nuestra aplicación. 
 Para crear el `bot` nos vamos a dirigir al apartado que dice `Bot` el cual esta ubicado en la parte lateral izquierda.
 
 ![](https://i.imgur.com/70vByGE.png)
